@@ -13,6 +13,8 @@ Môn học thiết kết hướng đối tượng TKHDT
    3) simpleFactory  
    4) Decorator
    5) MVC
+   
+   **sữ dung interface để giãm phụ thuộc tăng kết dính giữa các lớp , nguyên tắc đống  
  ```
  
 ```
