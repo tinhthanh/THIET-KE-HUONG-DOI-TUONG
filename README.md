@@ -1,7 +1,8 @@
 # THIET-KE-HUONG-DOI-TUONG
 Môn học thiết kết hướng đối tượng TKHDT 
 
-[![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://www.youtube.com/watch?v=AuqTTbFdtA8&t)
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=AuqTTbFdtA8)
+
 
 
  **ứng dụng chĩnh sữa hình ảnh**
