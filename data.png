@@ -1,0 +1,24 @@
+<html>
+<head><title>...</title></head>
+<body>
+
+<center>If you are not redirected in a few seconds, click 'continue' below<br>
+<form name="redirect" action="http://wifi.netnam.vn/login/index.php" method="post">
+<input type="hidden" name="mac" value="02:BC:32:85:5D:73">
+<input type="hidden" name="ip" value="10.43.71.6">
+<input type="hidden" name="username" value="">
+<input type="hidden" name="link-login" value="http://logoutwifi.netnam.vn/login?dst=http%3A%2F%2Fwww.java2s.com%2Fstyle%2Fdownload.png">
+<input type="hidden" name="link-orig" value="http://www.java2s.com/style/download.png">
+<input type="hidden" name="error" value="">
+<input type="hidden" name="chap-id" value="">
+<input type="hidden" name="chap-challenge" value="">
+<input type="hidden" name="link-login-only" value="http://logoutwifi.netnam.vn/login">
+<input type="hidden" name="link-orig-esc" value="http%3A%2F%2Fwww.java2s.com%2Fstyle%2Fdownload.png">
+<input type="hidden" name="mac-esc" value="02%3ABC%3A32%3A85%3A5D%3A73">
+<input type="submit" value="continue">
+</form>
+<script language="JavaScript">
+ document.redirect.submit();
+</script></center>
+</body>
+</html>
