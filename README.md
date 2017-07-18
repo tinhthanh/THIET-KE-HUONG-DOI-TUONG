@@ -54,4 +54,12 @@ new
 
 bạn có thể xem chi tiết ở file powerpoint phía trên nằm trong source
   
+  
+ FB  :  https://www.facebook.com/100005036221206
+ 
+ EMAIL : k40cntt@gmail.com
+  ``````
+  #ĐẠI HỌC NÔNG LÂP .TPHCM
+  
   #kĩ niệm học kì 2 năm 2 thời Sinh Viên 
+````
